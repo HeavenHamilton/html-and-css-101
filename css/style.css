@@ -1,0 +1,14 @@
+body {
+  background-color: tan;
+}
+.logo a{
+  display: inline;
+  text-decoration: none;
+}
+ li {
+  list-style: none;
+  display: inline-block;
+  color:white;
+  font-size: 21px;
+  padding: 20px;
+}
